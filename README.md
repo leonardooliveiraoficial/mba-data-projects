@@ -4,7 +4,7 @@ Este repositório reúne projetos desenvolvidos durante meu MBA em Data Science 
 
 ## Projetos
 
-- [Análises de Crédito](projeto_credito/README.md)   
+- [Análises de Crédito usando Naive Bayes Gaussiano](projeto_credito/naive_bayes/README.md)
 
 ## Sobre mim
 👋 Sou Leonardo Oliveira, Cientista de Dados.  
