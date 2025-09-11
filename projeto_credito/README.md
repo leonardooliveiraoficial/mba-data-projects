@@ -37,7 +37,7 @@
 - **Média da acurácia:** `92,5%`  
 - **Desvio padrão:** `1,3%`  
 
-📈 O modelo apresentou desempenho **alto e consistente**, mostrando-se adequado como baseline para prever risco de inadimplência.
+O modelo apresentou desempenho **alto e consistente**, mostrando-se adequado como baseline para prever risco de inadimplência.
 
 ---
 
