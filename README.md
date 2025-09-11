@@ -1,16 +1,12 @@
-# Projeto: Análise de Crédito
+# Portfólio de Projetos em Data Analytics
 
-**Objetivo:** Desenvolver modelos preditivos para avaliar o risco de inadimplência de clientes.
+Este repositório reúne projetos desenvolvidos durante meu MBA em Data Science & BI.
 
-## Etapas
-- Exploração e tratamento de dados
-- Modelagem (Naive Bayes, Regressão Logística, Árvore de Decisão, etc.)
-- Avaliação de desempenho (Accuracy, Precision, Recall, Matriz de Confusão)
+## Projetos
 
-## Resultados
+- [Análises de Crédito](projeto_credito/README.md)   
 
-- Modelo: **Naive Bayes**
-- Validação cruzada (10 folds):
-  - Acurácia média: **92,5%**
-  - Desvio padrão: **1,3%**
-- Conclusão: O modelo apresentou desempenho consistente e robusto, mostrando-se adequado para auxiliar em decisões de concessão de crédito.
+## Sobre mim
+👋 Sou Leonardo Oliveira, Cientista de Dados.  
+💼 Experiência em BI, desenvolvimento web/mobile e análise de dados.  
+🔗 [LinkedIn](https://www.linkedin.com/in/leo-de-oliveira) | [GitHub](https://github.com/leonardooliveiraoficial)
