@@ -4,7 +4,7 @@ Este projeto reproduz, em **Python/Colab**, um estudo de vendas imobiliárias a 
 **Vendas**, **Empreendimentos** e **Cidades/Regionais**.  
 O objetivo é transformar os dados em **insights acionáveis** e **storytelling** de negócio.
 
-> **Premissas do case**: considerar **set/2023** como data atual; gerar insights claros; e discutir como IA pode apoiar decisões. :contentReference[oaicite:0]{index=0}
+> **Premissas do case**: considerar **set/2023** como data atual; gerar insights claros; e discutir como IA pode apoiar decisões.
 
 ---
 
