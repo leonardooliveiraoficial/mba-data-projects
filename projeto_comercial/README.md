@@ -16,8 +16,6 @@ O objetivo é transformar os dados em **insights acionáveis** e **storytelling*
 - `dataset_cidades.xlsx`  
   - Campos: `identificador`, `cidade`, `regional`.
 
-> Os nomes são **padronizados** no notebook (minúsculas, sem acento, `_`).
-
 ---
 
 ## 2) O que o notebook faz
@@ -45,8 +43,6 @@ O objetivo é transformar os dados em **insights acionáveis** e **storytelling*
    - `dataset_cidades.xlsx`
 2. Cole o código do notebook e **execute** (uma célula só).
 3. Ao final, baixe os CSVs gerados (ex.: `kpi_vendas_por_cidade.csv`).
-
-> Se sua coluna `vendas` **não** existe, o notebook automaticamente usa **contagem de linhas** como volume de vendas (fallback).
 
 ---
 
