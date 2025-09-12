@@ -35,8 +35,14 @@ Este projeto demonstra boas práticas de **lógica de programação**, **estrutu
 
 ## 4) Como executar
 
-### Via notebook (Colab ou Jupyter)
-1. Abra o arquivo `classificador_numero.ipynb`.  
-2. Rode todas as células.  
-3. Digite um número quando solicitado:
-4. Pressione Enter no teclado
+1. **Via notebook (Colab ou Jupyter)**
+   - Abra o arquivo `classificador_numero.ipynb`.
+   - Rode todas as células.
+   - Digite um número quando solicitado:
+   - Pressione Enter no teclado
+
+2. **Exemplos de resultados**
+- Entrada: `-8` → Saída: “O número -8 é negativo, par e não primo.”  
+- Entrada: `0` → Saída: “O número 0 é zero, par e não primo.”  
+- Entrada: `13` → Saída: “O número 13 é positivo, ímpar e primo.”  
+
