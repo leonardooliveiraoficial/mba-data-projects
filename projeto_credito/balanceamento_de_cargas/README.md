@@ -71,6 +71,6 @@ Em produção, sugere-se **calibrar o threshold da Regressão Logística** para 
 ## **6. Estrutura do Repositório**
 
 - `data/dados_credito.csv` → Base de dados  
-- `notebooks/balanceamento_de_classe.ipynb` → Notebook com código e análises  
+- `notebooks/balanceamento_de_classe.ipynb` → Notebook com código e análises
+- `resultados/resultados_balanceamento.csv` → Notebook com código e análises
 - `README.md` → Este documento explicativo
-- `resultados_balanceamento.md` → Resultado
