@@ -41,4 +41,4 @@ Cada projeto está documentado com definição do problema, metodologia, impleme
 Sou Leonardo Oliveira, Cientista de Dados.  
 Tenho experiência em Business Intelligence, desenvolvimento web/mobile e análise de dados.
 
-🔗
+🔗 [LinkedIn](https://www.linkedin.com/in/leo-de-oliveira) | [GitHub](https://github.com/leonardooliveiraoficial)
